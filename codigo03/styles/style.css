@@ -98,7 +98,20 @@ button {
   font-weight: 800;
 }
 
-form {
-  text-align: center;
-  width: 100%;
+form label{
+  display: block;
+  margin-left: 25%;
 }
+
+form input {
+  display: block;
+  width: 50%;
+  margin-bottom: 15px;
+  margin-left: 25%;
+}
+
+form button {
+  margin-left: 25%;
+}
+
+
