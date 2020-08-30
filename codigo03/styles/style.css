@@ -3,12 +3,31 @@ body {
   font-family: Open Sans, sans-serif;
   background-color: #8a71c9;
   color: #ffffff;
+  margin: 0;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  font-weight: 300;
 }
 
 h2 {
   color: #2A0074;
+  font-size: 40px;
+  text-align: center;
 }
 
+h3 {
+  font-size: 22px;
+  text-align: center;
+  font-style: italic;
+}
+
+p {
+  font-size: 20px;
+  line-height: 1.5;
+}
 .titulo-verde {
   color: #04ff9f;
 }
@@ -19,4 +38,28 @@ h2 {
 
 .titulo-amarelo {
   color: #ffe36d;
+}
+
+section {
+  max-width: 60%;
+  margin: 0 auto;
+}
+
+ul {
+  text-align: center;
+  list-style-type: none;
+  line-height: 2;
+  padding-left: 0;
+}
+
+
+
+a {
+  text-decoration: none;
+  color: #99ffff;
+  font-weight: 700;
+}
+
+img {
+  width: 100%;
 }
