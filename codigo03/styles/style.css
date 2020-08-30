@@ -13,7 +13,7 @@ h1 {
 }
 
 h2 {
-  color: #2A0074;
+  color: #2a0074;
   font-size: 40px;
   text-align: center;
 }
@@ -52,8 +52,6 @@ ul {
   padding-left: 0;
 }
 
-
-
 a {
   text-decoration: none;
   color: #99ffff;
@@ -62,4 +60,23 @@ a {
 
 img {
   width: 100%;
+}
+
+.principal a {
+  color: #8a71c9;
+  text-decoration: underline;
+  font-weight: normal;
+}
+
+nav {
+  background-color: #ffffff;
+  height: 60px;
+  max-width: 60%;
+  margin: 0 auto;
+}
+
+.principal li {
+  display: inline-block;
+  line-height: 3.5;
+  margin: 0 90px;
 }
