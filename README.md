@@ -25,9 +25,6 @@
 ## Project
 This is a project developed on the first class of the [progra{m}aria](https://www.programaria.org/) course called [eu progr{amo}](https://www.programaria.org/curso-online-euprogramo/), a course only for womans to learn the principles of web development.
 
-
-
-
 ## Run
 Just open the [index.html](index.html) in any browser.
 
