@@ -1,27 +1,26 @@
 body {
   text-align: justify;
-  font-family: Open Sans, sans-serif;
-  background-color: #8a71c9;
+  font-family: "Open Sans", sans-serif;
+  background-color: #282a36;
   color: #ffffff;
   margin: 0 0 30px 0;
 }
 
 h1 {
-  font-size: 60px;
+  font-size: 40px;
   text-align: center;
   font-weight: 300;
 }
 
 h2 {
-  color: #2a0074;
-  font-size: 40px;
+  color: #bd93f9;
+  font-size: 25px;
   text-align: center;
 }
 
 h3 {
   font-size: 22px;
   text-align: center;
-  font-style: italic;
 }
 
 h4 {
@@ -34,15 +33,15 @@ p {
 }
 
 .titulo-verde {
-  color: #04ff9f;
+  color: #50fa7b;
 }
 
 .titulo-vermelho {
-  color: #ff9e9e;
+  color: #ff5555;
 }
 
 .titulo-amarelo {
-  color: #ffe36d;
+  color: #f1fa8c;
 }
 
 section {
@@ -59,43 +58,54 @@ ul {
   list-style-type: none;
   line-height: 2;
   padding-left: 0;
+  padding-bottom: 20px;
 }
 
 a {
   text-decoration: none;
-  color: #99ffff;
-  font-weight: 700;
+  color: #8be9fd;
 }
 
 img {
   width: 100%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .principal{
-  background-color: #ffffff;
+  background-color: #f8f8f2;
   height: 60px;
   max-width: 60%;
   margin: 0 auto;
 }
 
 .principal a {
-  color: #8a71c9;
+  color: #44475a;
+  font-size: 20px;
+}
+
+.principal a:hover {
   text-decoration: underline;
-  font-weight: 600;
 }
 
 .principal li {
   display: inline-block;
-  line-height: 3.5;
+  line-height: 3.0;
   margin: 0 90px;
 }
 
 button {
-  background-color: #41f341;
+  background-color: #50fa7b;
   border: 1px solid transparent;
   padding: 7px 20px;
   border-radius: 3px;
   font-weight: 800;
+  font-size: 20px;
+}
+
+button:hover {
+  background-color: #3fc961;
+  cursor: pointer;
 }
 
 form label{
@@ -108,10 +118,15 @@ form input {
   width: 50%;
   margin-bottom: 15px;
   margin-left: 25%;
+  padding-left: 5px;
+  height: 35px;
+  font-size: 18px;
 }
 
 form button {
   margin-left: 25%;
 }
+
+
 
 
