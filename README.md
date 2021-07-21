@@ -11,8 +11,14 @@
 
 <br />
 
+<h2 align="center">Course version</h2>
 <p align="center">
-    <img src=".readme/image01.png" width="400px" />
+    <img src=".readme/original.gif" width="600px" />
+</p>
+
+<h2 align="center">My version (no mobile yet)</h2>
+<p align="center">
+    <img src=".readme/version1.gif" width="600px" />
 </p>
 
 <br />
